@@ -1,3 +1,3 @@
 # Adding Book list
 
-<img src="./mockup.png" />
+<img src="https://ibb.co/jZKfK6J" />
